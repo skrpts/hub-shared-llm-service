@@ -1,0 +1,25 @@
+# --- Identity ---
+id: "c7828c58-0bff-4f1d-b316-fdf2eb74b047"
+name: "llm-service"
+display_name: "LLM Service"
+description: "Language model service for analysis, synthesis, and document generation"
+version: "1.0.0"
+engine: ">=0.1.0"
+author:
+  name: "skrptiq"
+  url: "https://hub.skrptiq.ai"
+licence: "MIT"
+repository: "https://github.com/skrpts/hub-shared-llm-service"
+category: "shared"
+tags:
+  - "shared"
+  - "service"
+contents:
+  skills: 0
+  prompts: 0
+  workflows: 0
+  services: 1
+  sources: 0
+  documents: 0
+  assets: 0
+  total: 1
