@@ -1,9 +1,9 @@
 # --- Identity ---
-id: "c7828c58-0bff-4f1d-b316-fdf2eb74b047"
+id: "fcab9536-a13e-49c9-b0c3-bb3097682e69"
 name: "llm-service"
 display_name: "LLM Service"
 description: "Language model service for analysis, synthesis, and document generation"
-version: "1.0.0"
+version: "1.0.1"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
