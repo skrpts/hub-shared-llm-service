@@ -15,7 +15,7 @@ This skrpt uses a language model for analytical and generative tasks. The LLM ha
 
 ### Usage Pattern
 
-The LLM is invoked at each stage of the pipeline. Earlier stages produce structured analysis (frameworks, assessments, breakdowns), while later stages synthesise outputs into coherent documents. The final stage is typically the most token-intensive, requiring cross-referencing across all previous outputs.
+The LLM is invoked at each stage of the pipeline. Earlier stages produce structured analysis (frameworks, assessments, breakdowns), while later stages synthesize outputs into coherent documents. The final stage is typically the most token-intensive, requiring cross-referencing across all previous outputs.
 
 ### Configuration
 
